@@ -14,7 +14,7 @@ sudo pacman -S fcitx5-im fcitx5-table-other
 Debian based distros (Ubuntu,Debian)
 
 ```
-sudo apt install fcitx5 fcitx-table
+sudo apt install fcitx5 fcitx5-table
 ```
 
 ### install bamini
