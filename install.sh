@@ -5,7 +5,7 @@ is_user_root () { [ "$(id -u)" -eq 0 ]; }
 
 if is_user_root; then
     cp tamil-bamini.conf /usr/share/fcitx5/inputmethod/tamil-bamini.conf
-    mkdir -p foo/usr/share/fcitx5/table/
+    mkdir -p /usr/share/fcitx5/table/
     cp tamil-bamini.main.dict /usr/share/fcitx5/table/tamil-bamini.main.dict
     echo 'Installation success!'
     exit 0 # implicit, here it serves the purpose to be explicit for the reader
