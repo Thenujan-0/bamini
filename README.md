@@ -4,12 +4,14 @@ This is a bamini language addon for fcitx5
 
 
 ## installation
-### instal fcitx5 
 
-arch based distros
+arch based distros 
 ```
-sudo pacman -S fcitx5-im fcitx5-table-other
+yay fcitx5-table-other
 ```
+
+
+### install fcitx5 
 
 Debian based distros (Ubuntu,Debian)
 
