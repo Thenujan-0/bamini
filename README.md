@@ -1,6 +1,6 @@
 # bamini
 
-This is a bamini language addon for fcitx5
+This is a bamini tamil language addon for fcitx5
 
 
 ## installation
@@ -9,7 +9,7 @@ arch based distros
 ```
 yay fcitx5-table-other
 ```
-This is sufficient is=n arch linux as AUR package is there
+This is sufficient in arch linux as AUR package is there
 
 
 for non arch distributions however a manual install is necessary
